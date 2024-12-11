@@ -20,7 +20,7 @@ const Header = ({ title, onAdd, showAdd }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA CICD",
+  title: "BIA CI",
 };
 
 export default Header;
